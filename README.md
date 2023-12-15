@@ -5,8 +5,8 @@ SD Lab II
 
 2nd Year 1st Semester
 
-The Personal Electronic Health Record and Health Monitor System is a Java Swingbased desktop application developed using Java Programming Language and MySQL
-RDBMS program for efficient management of personal health information. This usercentric app aims to empower individuals in effectively organizing and accessing 
+The Personal Electronic Health Record and Health Monitor System is a Java Swing based desktop application developed using Java Programming Language and MySQL
+RDBMS program for efficient management of personal health information. This user-centric app aims to empower individuals in effectively organizing and accessing 
 their health records for better self-care.
 The app allows users to create, update, and maintain their electronic health records, 
 including important details such as medical history, diagnoses, treatments, medications, 
@@ -27,7 +27,8 @@ accessible and user-friendly solution for individuals to take control of their h
 information and support their personal health management goals.
 
 Software Platform:
-• The project will be developed using Java-Swing.
+
+• The project will be developed using Java-Swing.  
 • MySQL Relational Database Management System (RDBMS).
 
 Identification of functional requirements:
